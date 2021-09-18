@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @YassHawkEyes
-- 👀 I’m interested in  le  HTML/CSS ,JavaScript, Python
-- 🌱 I’m currently learning  le language Html/Css
+- 👋 Salut moi c'est @YassHawkEyes
+- 👀 Je suis intéressé par le  HTML/CSS ,JavaScript, Python
+- 🌱 En ce moment j'apprend le language Html/Css. 
 
 <!---
 YassHawkEyes/YassHawkEyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
